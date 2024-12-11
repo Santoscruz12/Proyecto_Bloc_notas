@@ -33,7 +33,10 @@
               {
                 "glob": "**/*",
                 "input": "public"
-              }
+              
+              },
+               "src/assets/_redirects"
+               
             ],
             "styles": [
               "src/styles.scss"
